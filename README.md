@@ -1,6 +1,6 @@
-# Employee Face Recognition System
+# Face Recognition System
 
-A comprehensive Flask-based web application for real-time employee face detection and recognition using computer vision and machine learning. This system supports multiple camera feeds, video analysis, and provides a complete surveillance solution for security applications.
+A comprehensive Flask-based web application for real-time employee face detection and recognition using computer vision and machine learning. This system supports multiple camera feeds, video analysis, and provides a complete surveillance solution for security applications which has been enriched with CUDA processes and uses dlib as a support.
 
 ## 🚀 Features
 
